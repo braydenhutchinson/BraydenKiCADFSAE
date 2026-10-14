@@ -2,9 +2,39 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid ed696840-a11b-47d0-968b-96e3b9524805)
+	(uuid "ed696840-a11b-47d0-968b-96e3b9524805")
 	(paper "A4")
 	(lib_symbols)
+	(wire
+		(pts
+			(xy 140.97 128.27) (xy 170.18 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12201633-710c-44b1-8328-6ed04cd166b8")
+	)
+	(wire
+		(pts
+			(xy 224.79 57.15) (xy 140.97 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "936d8333-e202-4644-ac69-064d74e7593d")
+	)
+	(wire
+		(pts
+			(xy 140.97 57.15) (xy 140.97 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb55f912-82a2-4992-b5dc-18125e3473c5")
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
