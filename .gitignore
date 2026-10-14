@@ -1,0 +1,16 @@
+# KiCad temporary and backup files
+*.bak
+*.gbr
+*.drl
+*.pdf
+*-backups/
+_autosave-*
+
+# Layout and schematic state files (can cause frequent minor conflicts)
+*.fp-info-cache
+*-save.kicad_pcb
+*-save.kicad_sch
+.history/
+fp-info-cache
+~*.lck
+*.kicad_prl
